@@ -1,1 +1,1 @@
-vless://0a403539-56e5-4452-a9a1-882ebdee3b15@vpde2.iccgame.ir:9002?mode=gun&security=reality&encryption=none&authority=&pbk=vmxeKxE1NuN5wvffwaZAWYCa5VFRQGqOanrvdHif4U4&fp=chrome&type=grpc&serviceName=8001vless&sni=chess.com&sid=aa6736b6d337d59d#Hamrahe+Aval+%7C+Reality+-+gRPC
+
