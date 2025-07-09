@@ -6,3 +6,4 @@ tuic://abc901-2345-6789-0123-4567abcdef89@rayan-config.ir:9443?congestion_contro
 tuic://abc012-3456-7890-1234-5678abcdef90@rayan-config.ir:9443?congestion_control=bbr&alpn=h3#@Filter_breaker
 tuic://def456-7890-0123-4567-8901abcdef45@rayan-config.ir:9443?congestion_control=bbr&alpn=h3#@Filter_breaker
 tuic://m3n4o5p6-7890-4abc-1def-23456789abcd@185.146.173.150:8888?congestion_control=bbr&alpn=h3#@Filter_breaker
+tuic://c1694f7b-56e9-4d3f-9081-e93413a95f89:c1694f7b-56e9-4d3f-9081-e93413a95f89@bx.788848.xyz:61154/?congestion_control=bbr&udp_relay_mode=quic&sni=apps.apple.com&alpn=h3&allow_insecure=1#%F0%9F%87%A7%F0%9F%87%B714%40oneclickvpnkeys`
