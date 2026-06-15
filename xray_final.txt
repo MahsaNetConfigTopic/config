@@ -1,15 +1,9 @@
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@cf.9999669.xyz:2087?security=tls&sni=fgnix832fx.fx6hsv0.ccwu.cc&type=ws&headerType=none&host=fgnix832fx.fx6hsv0.ccwu.cc&path=/#🚀@VPNine1
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.53.227:2087?allowInsecure=1&encryption=none&fp=chrome&host=fgnix832fx.fx6hsv0.ccwu.cc&path=%2F&security=tls&sni=fgnix832fx.fx6hsv0.ccwu.cc&type=ws#%F0%9F%90%8A90@v2ray_configs_pools``
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.52.175:2087?allowInsecure=1&encryption=none&host=fgnix832fx.fx6hsv0.ccwu.cc&path=%2F&security=tls&sni=fgnix832fx.fx6hsv0.ccwu.cc&type=ws#%F0%9F%90%8A81@v2ray_configs_pools
-vless://7270612b-49f6-4b04-999c-34d8263da767@188.114.97.6:443?type=ws&security=tls&host=picassooo.info&path=%2Faymdlws&sni=picassooo.info#🇮🇱
 vless://7270612b-49f6-4b04-999c-34d8263da767@188.114.97.6:443?path=%2Faymdlws&security=tls&encryption=none&insecure=0&host=picassooo.info&type=ws&allowInsecure=0&sni=picassooo.info#%F0%9F%87%AE%F0%9F%87%B1
+vless://7270612b-49f6-4b04-999c-34d8263da767@188.114.97.6:443?type=ws&security=tls&host=picassooo.info&path=%2Faymdlws&sni=picassooo.info#🇮🇱
 vless://7270612b-49f6-4b04-999c-34d8263da767@162.159.44.45:443?path=%2Faymdlws&security=tls&encryption=none&insecure=0&host=picassooo.info&fp=chrome&type=ws&allowInsecure=0&sni=picassooo.info#VLESS%20143%20t.me%2FiProxyChannel
-vless://7270612b-49f6-4b04-999c-34d8263da767@188.114.97.5:443?path=%2Faymdlws&security=tls&encryption=none&host=picassooo.info&type=ws&sni=picassooo.info#🔵@chillguy_vpn
 vless://7270612b-49f6-4b04-999c-34d8263da767@172.64.35.45:443?path=%2Faymdlws&security=tls&encryption=none&insecure=0&host=picassooo.info&fp=chrome&type=ws&allowInsecure=0&sni=picassooo.info#VLESS%20170%20t.me%2FiProxyChannel
+vless://7270612b-49f6-4b04-999c-34d8263da767@188.114.97.5:443?path=%2Faymdlws&security=tls&encryption=none&host=picassooo.info&type=ws&sni=picassooo.info#🔵@chillguy_vpn
 vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@wstg.datasynctrue.online:443?path=%2Fapi%2Fconnect&security=tls&encryption=none&insecure=0&host=wstg.datasynctrue.online&type=ws&allowInsecure=0#%40%F0%9D%90%A4%F0%9D%90%9A%F0%9D%90%A9%F0%9D%90%AC%F0%9D%90%A8%F0%9D%90%A5%F0%9D%90%AF%F0%9D%90%A9%F0%9D%90%A7_%F0%9F%A6%84```
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.167:8880?mode=gun&security=&encryption=none&type=grpc#VLESS%203%20t.me%2FiProxyChannel
-trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws#Channel%20id%3A%20%40internet_azad_2026%20%F0%9F%87%A8%F0%9F%87%A6
 vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@wstg.datasynctrue.online:443?path=%2Fapi%2Fconnect&security=tls&encryption=none&host=wstg.datasynctrue.online&type=ws#@v2reya88
-trojan://humanity@104.16.71.213:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@v2reya88
-trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws#
-trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#Channel%20id%3A%20%40internet_azad_2026%20%F0%9F%87%A8%F0%9F%87%A6
